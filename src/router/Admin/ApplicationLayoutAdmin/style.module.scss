@@ -1,0 +1,11 @@
+.adminPage {
+  .wrapper {
+    display: flex;
+    .navbar {
+      width: 15%;
+    }
+    .container {
+      flex: 1;
+    }
+  }
+}
